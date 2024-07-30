@@ -2,7 +2,10 @@
 
 I am a passionate person with solid knowledge in web development and e-commerce. My goal is to apply this experience with an entrepreneurial mindset and technological skills to offer valuable insights, thereby contributing to the sustainable development of the projects in which I am involved.
 
-![melladodaniel's Stats](https://github-readme-stats.vercel.app/api?username=melladodaniel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melladodaniel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melladodaniel&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 <!--
 ## 🚀 About Me
